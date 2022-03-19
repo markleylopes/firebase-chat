@@ -1,0 +1,18 @@
+.Main {
+  background: #373b44;
+  background: -webkit-linear-gradient(to right, #4286f4, #373b44);
+  background: linear-gradient(to right, #4286f4, #373b44);
+  overflow-y: auto;
+}
+
+.Box {
+  max-width: 350px;
+  border-radius: 4px;
+  margin: 10px !important;
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+.BoxSpacing {
+  padding: 2px 0;
+}

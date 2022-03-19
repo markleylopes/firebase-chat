@@ -1,0 +1,27 @@
+.rce-mlist {
+  width: 100%;
+  height: 300px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  border-radius: 2px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.ChatContainer {
+  padding: 10px;
+}
+
+.ChatHeader {
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 12px;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.TextField {
+  background-color: white;
+}
