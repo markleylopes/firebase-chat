@@ -2,6 +2,8 @@
 
 Um chat em Next.js usando os principais recursos do Firebase 😎
 
+###### Demo
+[https://firebase-chat-nine.vercel.app/escolher-chat](https://firebase-chat-nine.vercel.app/escolher-chat){:target="_blank"}
 
 ## Requisitos
 
